@@ -1,1 +1,1 @@
-# IMDB-Sentiment-Analysis
+# IMDBSentimentAnalysis
